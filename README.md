@@ -1,8 +1,8 @@
-# CheapGPT
+# Future Finder
 
-Cheaper chat GPT, using your own API key.
+Career Focused chat GPT, using your own API key.
 
-Deployed [here](https://dgmp88.github.io/CheapGPT/).
+Deployed [here](https://dgmp88.github.io/FutureGPT/).
 
 # Built with Svelte
 
