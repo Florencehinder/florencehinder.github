@@ -4,8 +4,9 @@
 	import './styles.css';
 </script>
 
-
-<div class="flex h-screen w-full flex-col">
-	<Header />
-	<slot />
-</div>
+<Drawer>
+	<div class="flex h-screen w-full flex-col">
+		<Header />
+		<slot />
+	</div>
+</Drawer>
