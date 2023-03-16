@@ -39,7 +39,7 @@
 
 <svelte:head>
 	<title>Home</title>
-	<meta name="description" content="CheapGPT" />
+	<meta name="description" content="FutureGPT" />
 </svelte:head>
 
 {#if requestApiKey}
