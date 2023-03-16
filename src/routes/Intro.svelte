@@ -17,7 +17,7 @@
 	<h3>Is it secure?</h3>
 	<p>
 		Nothing on this page is sent anywhere except to OpenAI. There is no tracking etc. See <a
-			href="https://github.com/dgmp88/CheapGPT">here</a> for the full source code.
+			href="https://github.com/dgmp88/FutureGPT">here</a> for the full source code.
 	</p>
 
 	<label for="security-modal" class="btn btn-primary btn-sm text-center">More security info</label>
